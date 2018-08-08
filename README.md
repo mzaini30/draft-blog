@@ -1,1 +1,1 @@
-# draft-blog
+Repositori ini berisi dengan draft blog yang belum dipublish
