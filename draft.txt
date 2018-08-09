@@ -1,0 +1,9 @@
+Menampilkan Cuplikan Film Menggunakan VLC
+
+Sekarang bisa loh cuma menampilkan cuplikan film aja dari suatu film. Jadi, kita nggak perlu untuk menyetel keseluruhan film. Misalnya saja, kita mau mengambil cuplikan dari detik ke 500 hingga detik ke 550 aja. Nah, di bawah ini adalah skripnya:
+
+#EXTVLCOPT:start-time=500
+#EXTVLCOPT:stop-time=550
+judul-filenya.mp4
+
+Save skrip di atas dengan nama file berakhiran *.m3u lalu setelah itu jalankan dengan VLC.
